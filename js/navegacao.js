@@ -6,7 +6,7 @@ const paginas = {
             <h2>Sobre a ONG</h2>
 
             <img
-                src="../imagens/ong1.png"
+                src="../imagens/ong1.webp"
                 alt="Voluntários da ONG realizando uma ação comunitária"
             >
 
